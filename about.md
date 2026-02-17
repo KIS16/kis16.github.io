@@ -1,7 +1,7 @@
 ---
 layout: about
 description: >
-  KIS16 블로그 소개
+  박사과정 KIS16 소개. 연구 분야, 관심사, 연락처.
 hide_description: true
 ---
 
@@ -9,9 +9,11 @@ hide_description: true
 
 <!--author-->
 
-KIS16 블로그에 오신 걸 환영합니다.
+박사과정 재학 중이며, 이 사이트는 **개발·연구 포트폴리오** 목적으로 운영합니다.
 
-개발·기록·생각을 남기는 공간입니다.  
-`about.md`와 `_data/authors.yml`에서 이 페이지 내용과 프로필을 수정할 수 있습니다.
+- **[Projects](/projects/)**: 참여/주도한 프로젝트, 연구·개발 결과물
+- **[Posts](/posts/)**: 기술 블로그, 논문 요약, 학습·실험 기록
+
+협업·제안·문의는 이메일 또는 About 하단 링크로 연락해 주시면 됩니다.
 
 <!--posts-->

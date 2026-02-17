@@ -1,13 +1,16 @@
-# 블로그 주 작성자. `_config.yml`의 author와 동일하게.
+# 포트폴리오 주 작성자. `_config.yml`의 author와 동일하게.
 author1:
   name:              KIS16
-  email:             kis1642m@gmail.com  # 실제 이메일로 변경
+  email:             kis1642m@gmail.com
 
-  # About 페이지·포스트 하단에 표시. Markdown 사용 가능.
+  # About·포스트 하단에 표시. 연구 분야·한 줄 소개를 넣으면 좋습니다.
   about:             |
-    KIS16 블로그에 오신 걸 환영합니다.
-    개발·기록·생각을 남기는 공간입니다.
-    `_data/authors.yml`에서 이 소개 문구를 수정할 수 있습니다.
+    박사과정 재학 중입니다.
+    연구·개발 경험을 정리한 포트폴리오와 블로그를 운영합니다.
+    현재 연구중인 분야는 LLM, 특히 멀티모달 부분을 연구하고 있습니다.
+    연구 키워드 : 딥러닝, LLM, 컴퓨터비전, 무선통신, 재난안전, 통신재난 등
+     - 학력 : 컴퓨터공학 학사, 사회안전학 석사, 공학박사수료
+    개발 주 언어는 python 입니다.
 
   picture:
     path:            https://via.placeholder.com/128x128
@@ -15,59 +18,9 @@ author1:
       1x:            https://via.placeholder.com/128x128
       2x:            https://via.placeholder.com/256x256
 
-  # 사이드바 소셜 아이콘. 사용하는 것만 남기고 username/URL 입력.
   social:
     github:          kis16
-    # twitter:         <username>
     email:           kis1642m@gmail.com
-    # rss:             https://<url>/feed.xml
-    # facebook:        <username>
-    # google:          <number>
-    # vk:              <username>
-    # youtube:         <string_string_string>
-    # vimeo:           <username>
-    # vine:            <username>
-    # spotify:         <user>/<number>
-    # soundcloud:      <username>
-    # lastfm:          <username>
-    # instagram:       <username>
-    # flickr:          <string@string>
-    # 500px:           <username>
-    # dribbble:        <username>
-    # behance:         <username>
-    # deviantart:      <username>
-    # ello:            <username>
-    # twitch:          <username>
-    # steam:           <number>
-    # reddit:          <username>
-    # tumblr:          <username>
-    # pinterest:       <username>
-    # foursquare:      <number>
-    # yelp:            <string>
-    # stackoverflow:   <number/username>
-    # npm:             <username>
-    # hackernews:      <username>
-    # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
-    # xing:            <firstname_lastname_counter>
-    # blogger:         <number>
-    # delicious:       <username>
-    # stumbleupon:     <username>
-    # paypal:          <username>
-    # download:        <url>
-    # keybase:         <username>
-    # signal:          <group-invite-code>
-    # threads:         @<username>
-    # playstation:     https://<url>
-    # messenger:       https://<url>
-    # stripe:          https://<url>
-    # slack:           https://<url>
-    # gitlab:          <username>
-    # line:            <username>
-    # medium:          <path>
-    # xbox:            <gamer-tag>
-    # wechat:          https://<url>
-    # discord:         <invite-code>
-    # mastodon:        https://<url>
-    # x:               <username>
-
+    # linkedin:        firstname-lastname  # 학술·업무용으로 추천
+    # google_scholar: <id>  # 논문 프로필 링크
+    # orcid:          <id>  # 연구자 ID
