@@ -401,7 +401,7 @@ jekyll_compose:
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
-      layout: project
+      layout: page
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.

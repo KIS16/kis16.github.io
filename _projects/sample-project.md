@@ -1,5 +1,5 @@
 ---
-layout:      project
+layout:      page
 title:       샘플 프로젝트
 date:        2025-01-01
 description: >
